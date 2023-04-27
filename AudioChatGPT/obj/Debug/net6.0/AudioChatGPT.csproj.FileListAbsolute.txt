@@ -1,0 +1,85 @@
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\appsettings.json
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\AudioChatGPT.exe
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\AudioChatGPT.deps.json
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\AudioChatGPT.runtimeconfig.json
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\AudioChatGPT.dll
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\AudioChatGPT.pdb
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\OpenAI_API.dll
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.csproj.AssemblyReference.cache
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.AssemblyInfoInputs.cache
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.AssemblyInfo.cs
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\staticwebassets\msbuild.AudioChatGPT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\staticwebassets\msbuild.build.AudioChatGPT.props
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AudioChatGPT.props
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AudioChatGPT.props
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\scopedcss\bundle\AudioChatGPT.styles.css
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.csproj.CopyComplete
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.dll
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\refint\AudioChatGPT.dll
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.pdb
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.genruntimeconfig.cache
+C:\Users\jean.lefchak\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\ref\AudioChatGPT.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\appsettings.Development.json
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\appsettings.json
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\AudioChatGPT.exe
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\AudioChatGPT.deps.json
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\AudioChatGPT.runtimeconfig.json
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\AudioChatGPT.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\AudioChatGPT.pdb
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\OpenAI_API.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.csproj.AssemblyReference.cache
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.AssemblyInfoInputs.cache
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.AssemblyInfo.cs
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.csproj.CoreCompileInputs.cache
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.MvcApplicationPartsAssemblyInfo.cs
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.MvcApplicationPartsAssemblyInfo.cache
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\staticwebassets.build.json
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\staticwebassets.development.json
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\scopedcss\bundle\AudioChatGPT.styles.css
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.csproj.CopyComplete
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.dll
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\refint\AudioChatGPT.dll
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.pdb
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\AudioChatGPT.genruntimeconfig.cache
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\ref\AudioChatGPT.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Google.Api.Gax.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Google.Apis.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Google.Apis.Auth.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Google.Apis.Core.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Google.Cloud.Speech.V1.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Google.Cloud.TextToSpeech.V1.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Google.LongRunning.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Google.Protobuf.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Grpc.Auth.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Grpc.Core.Api.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Grpc.Net.Client.dll
+E:\AudioChatGPT\AudioChatGPT\bin\Debug\net6.0\Grpc.Net.Common.dll
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\staticwebassets\msbuild.AudioChatGPT.Microsoft.AspNetCore.StaticWebAssets.props
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\staticwebassets\msbuild.build.AudioChatGPT.props
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AudioChatGPT.props
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AudioChatGPT.props
+E:\AudioChatGPT\AudioChatGPT\obj\Debug\net6.0\staticwebassets.pack.json

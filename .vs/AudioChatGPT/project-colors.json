@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6289b1ba-6079-421e-b640-8621829d7e1c": {
+      "ProjectGuid": "6289b1ba-6079-421e-b640-8621829d7e1c",
+      "DisplayName": "AudioChatGPT",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

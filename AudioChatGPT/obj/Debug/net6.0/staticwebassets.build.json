@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z0F2JjZGb2Pzza5wHzsDMWcb26eXjy+qdlXYudRnG7M=",
+  "Source": "AudioChatGPT",
+  "BasePath": "_content/AudioChatGPT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
