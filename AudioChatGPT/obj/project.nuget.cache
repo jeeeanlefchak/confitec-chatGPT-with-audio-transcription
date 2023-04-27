@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Dj41b9QpXP8lLX8q6mUsENiJGbeltVo9/JiPAurVe533CJ1xs0hz3owstScnyKOd+aj4stDGXRv7q4UGA8mZpQ==",
+  "dgSpecHash": "IrOajvDiqXj2uo5UjL7VR6+JHtO5pOEOtATgZJfLMWFz+ugqcFHYlO4a1Onp3OWBQk51uqon/H+pVsuAv2O89Q==",
   "success": true,
   "projectFilePath": "E:\\AudioChatGPT\\AudioChatGPT\\AudioChatGPT.csproj",
   "expectedPackageFiles": [
@@ -37,7 +37,11 @@
     "C:\\Users\\jean_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\jean_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\jean_\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\jean_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\jean_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\jean_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\jean_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
   ],
   "logs": []
 }

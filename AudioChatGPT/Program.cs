@@ -9,6 +9,9 @@ builder.Services.AddSwaggerGen();
 
 //builder.Services.AddCors(Options => Options.AddPolicy("AllowAll", p => p.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader().AllowCredentials()));
 builder.Services.AddCors();
+builder.Services.AddControllers()
+            .AddJsonOptions(options =>
+               options.JsonSerializerOptions.PropertyNamingPolicy = null);
 
 var app = builder.Build();
 
