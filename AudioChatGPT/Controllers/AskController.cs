@@ -18,7 +18,7 @@ namespace AudioChatGPT.Controllers
         }
 
         [HttpPost]
-        public async Task<string> test([FromBody] AskRequest askRequest)
+        public async Task<string> test([FromBody] Request request)
         {
             try
             {
@@ -53,7 +53,7 @@ namespace AudioChatGPT.Controllers
                 //    throw new Exception(ex.Message);
                 //}
 
-                OpenAI_API.APIAuthentication.Default = new OpenAI_API.APIAuthentication("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");
+                OpenAI_API.APIAuthentication.Default = new OpenAI_API.APIAuthentication("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");
                 var api = new OpenAI_API.OpenAIAPI();
 
                 var results = api.Chat.CreateChatCompletionAsync(new ChatRequest()
@@ -62,7 +62,7 @@ namespace AudioChatGPT.Controllers
                     Temperature = 0.7,
                     MaxTokens = 350,
                     Messages = new ChatMessage[] {
-                    new ChatMessage(ChatMessageRole.User, askRequest.Ask)
+                    new ChatMessage(ChatMessageRole.User, request.Ask)
                 },
 
                 }).Result;

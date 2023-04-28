@@ -4,6 +4,7 @@ using Google.Cloud.TextToSpeech.V1;
 using Microsoft.AspNetCore.Http;
 using Newtonsoft.Json;
 using AudioChatGPT.Arguments;
+using AudioChatGPT.Arguments.GlobalVaribales;
 
 namespace AudioChatGPT.Controllers
 {
@@ -18,8 +19,40 @@ namespace AudioChatGPT.Controllers
             return JsonConvert.SerializeObject("sucessessss");
         }
 
+        [HttpPost("2")]
+        public string Transcription2([FromBody] Request request)
+        {
+            try
+            {
+                Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", GlobalVaribales.FilePathApiCredentialsGoogleSpeech);
+                byte[] bytes = Convert.FromBase64String(request.Base64);
+                var speech = SpeechClient.Create();
+                var response = speech.Recognize(new RecognitionConfig()
+                {
+                    Encoding = RecognitionConfig.Types.AudioEncoding.Linear16,
+                    SampleRateHertz = 16000,
+                    LanguageCode = "pt-BR",
+                }, RecognitionAudio.FromBytes(bytes));
+
+                foreach (var result in response.Results)
+                {
+                    //foreach (var alternative in result.Alternatives)
+                    //{
+                    //}
+                    return JsonConvert.SerializeObject(result.Alternatives);
+                }
+
+                return JsonConvert.SerializeObject(null);
+            }
+            catch (Exception ex)
+            {
+                return JsonConvert.SerializeObject(ex);
+            }
+        }
+
+
         [HttpPost]
-        public string Transcription([FromBody] string base64)
+        public string Transcription([FromBody] string? base64)
         {
             try
             {
@@ -58,39 +91,24 @@ namespace AudioChatGPT.Controllers
 
                 //var audio = RecognitionAudio.FromFile("C:\\Users\\Antônio Pantoja\\Music\\Gravando.m4a");
 
-                try
+
+                foreach (var result in response.Results)
                 {
-                    foreach (var result in response.Results)
+                    foreach (var alternative in result.Alternatives)
                     {
-                        foreach (var alternative in result.Alternatives)
-                        {
 
-                            //var client = new RestClient("http://45.230.200.186:5555/ask");
-                            //client.Timeout = -1;
-                            //var request = new RestRequest(Method.POST);
-                            //request.AddHeader("Content-Type", "application/json");
-                            //var body = @"{""Ask"": " + result.Alternatives + "} ";
-                            //request.AddParameter("application/json", body, ParameterType.RequestBody);
-                            //IRestResponse resposta = client.Execute(request);      
-                            //return Json(resposta.Content);
-                            return JsonConvert.SerializeObject(alternative.Transcript);
-                        }
+                        //var client = new RestClient("http://45.230.200.186:5555/ask");
+                        //client.Timeout = -1;
+                        //var request = new RestRequest(Method.POST);
+                        //request.AddHeader("Content-Type", "application/json");
+                        //var body = @"{""Ask"": " + result.Alternatives + "} ";
+                        //request.AddParameter("application/json", body, ParameterType.RequestBody);
+                        //IRestResponse resposta = client.Execute(request);      
+                        //return Json(resposta.Content);
+                        return JsonConvert.SerializeObject(alternative.Transcript);
                     }
-                    return JsonConvert.SerializeObject("");
                 }
-                catch (Exception e)
-                {
-                    Console.WriteLine(e.Message);
-                    throw e;
-                }
-
-                var retornoError = new
-                {
-                    StatusCode = 500,
-                    StatusMessage = "ERRO no Serviço"
-                };
-
-                return JsonConvert.SerializeObject(retornoError);
+                return JsonConvert.SerializeObject("");
             }
             catch (Exception e)
             {
